@@ -12,3 +12,5 @@ New line added to check Jenkins
 
 This line is added to check the webhook performance
 Additional line added as part of webhook
+
+Poll SCM is used
